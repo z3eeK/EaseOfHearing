@@ -16,12 +16,14 @@ ___
 
 ❌ Work in progress
 ___
+❌ EULA
+
 ✔️ Shield (Multiplayer Detection)
 
 ❌ Shield-Core Integration
- 
+
 ✔️ GUI Design
- 
+
 ❌ GUI Implementation
  
 ❌ Channel Mode
