@@ -14,7 +14,9 @@ ___
 
 ✔️ Complete	
 
-❌ Work in progress
+⚠️ Work in progress
+
+❌ Pending
 ___
 ❌ EULA
 
@@ -24,9 +26,9 @@ ___
 
 ✔️ GUI Design
 
-❌ GUI Implementation
+⚠️ GUI Implementation
  
-❌ Channel Mode
+⚠️ Channel Mode
 
 ❌ Directional Mode
  
