@@ -5,7 +5,7 @@
 App to Visualize Acoutic 3D Environments for Those Deaf or Hard of Hearing - Initial Commit Pending
 
 ## Initial Commit Progress
-List of features to be included in initial commit (and preview build if applicable). 
+Tasks and list of features to be included in initial commit and/or preview build (if applicable). 
 
 *Subject to change.*
 ___
@@ -23,6 +23,8 @@ ___
 ✔️ Shield (Multiplayer Detection)
 
 ❌ Shield-Core Integration
+
+⚠️ Instance Dupe Protection
 
 ✔️ GUI Design
 
