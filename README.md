@@ -2,7 +2,10 @@
 
 # EaseOfHearing ![GitHub License](https://img.shields.io/github/license/z3eek/easeofhearing)
 
-App to Visualize Acoutic 3D Environments for Those Deaf or Hard of Hearing - Initial Commit Pending
+> [!NOTE]
+> Not meant for multiplayer use.
+
+**App to Visualize Acoutic 3D Environments for Those Deaf or Hard of Hearing** - *Initial Commit Pending*
 
 ## Initial Commit Progress
 Tasks and list of features to be included in initial commit and/or preview build (if applicable). 
@@ -39,3 +42,5 @@ ___
 ❌ Colorblind Mode
  
 ❌ Opacity Sliders
+
+❌ Code Review
