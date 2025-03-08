@@ -24,7 +24,7 @@ ___
 
 ❌ Shield-Core Integration
 
-⚠️ Instance Dupe Protection
+✔️ Instance Dupe Protection
 
 ✔️ GUI Design
 
