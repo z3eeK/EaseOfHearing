@@ -25,7 +25,7 @@ ___
 
 ✔️ Shield (Multiplayer Detection)
 
-❌ Shield-Core Integration
+⚠️ Shield-Core Integration
 
 ✔️ Instance Dupe Protection
 
