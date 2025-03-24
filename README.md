@@ -21,7 +21,7 @@ ___
 
 ❌ Pending
 ___
-❌ EULA
+⚠️ EULA
 
 ✔️ Shield (Multiplayer Detection)
 
@@ -35,7 +35,7 @@ ___
  
 ⚠️ Channel Mode
 
-❌ Directional Mode
+❌ Directional Mode (*Excluded from Preview Build*)
  
 ❌ Ambient Dampening
 
