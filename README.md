@@ -20,6 +20,9 @@ ___
 ⚠️ Work in progress
 
 ❌ Pending
+
+🚫 Unscheduled *(Excluded from Preview Build)*
+
 ___
 ⚠️ EULA
 
@@ -35,7 +38,7 @@ ___
  
 ⚠️ Channel Mode
 
-❌ Directional Mode (*Excluded from Preview Build*)
+🚫 Directional Mode
  
 ❌ Ambient Dampening
 
