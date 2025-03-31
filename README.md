@@ -34,7 +34,7 @@ ___
 
 ✔️ GUI Design
 
-⚠️ GUI Implementation
+✔️ GUI Implementation
  
 ⚠️ Channel Mode
 
