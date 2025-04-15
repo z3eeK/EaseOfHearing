@@ -36,7 +36,9 @@ ___
 
 ✔️ GUI Implementation
  
-⚠️ Channel Mode
+⚠️ Channel Mode: Overlay
+ 
+⚠️ Channel Mode: Logic
 
 🚫 Directional Mode
  
