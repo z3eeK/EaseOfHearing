@@ -2,10 +2,13 @@
 
 # EaseOfHearing ![GitHub License](https://img.shields.io/github/license/z3eek/easeofhearing)
 
+**App to Visualize Acoutic 3D Environments for Those Deaf or Hard of Hearing**
+
 > [!NOTE]
 > Not meant for multiplayer use.
 
-**App to Visualize Acoutic 3D Environments for Those Deaf or Hard of Hearing** - *Initial Commit Pending*
+> [!IMPORTANT]
+> Due to several complications the project has been shelved for the time being.
 
 ## Initial Commit Progress
 Tasks and list of features to be included in initial commit and/or preview build (if applicable). 
@@ -24,7 +27,7 @@ ___
 🚫 Unscheduled *(Excluded from Preview Build)*
 
 ___
-⚠️ EULA
+🚫 EULA
 
 ✔️ Shield (Multiplayer Detection)
 
@@ -38,14 +41,14 @@ ___
  
 ✔️ Channel Mode: Overlay
  
-⚠️ Channel Mode: Logic
+🚫 Channel Mode: Logic
 
 🚫 Directional Mode
  
-❌ Ambient Dampening
+🚫 Ambient Dampening
 
-❌ Colorblind Mode
+🚫 Colorblind Mode
  
-❌ Opacity Sliders
+🚫 Opacity Sliders
 
-❌ Code Review
+🚫 Code Review
